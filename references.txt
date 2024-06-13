@@ -1,0 +1,30 @@
+Можете отсоединить Вашу электронную книгу от компьютера и попробовать сбросить настройки до заводских?
+Это действие удалит информацию с вашего устройства eReader, но вы можете сделать резервную копию и перенести информацию обратно после его выполнения
+Вы можете выполнить следующие действия:
+Чтобы выполнить сброс #PRS_ORG# до заводских настроек, выполните следующие действия:
+Вернитесь на главный экран.
+Нажмите «Главный экран» в верхней части экрана.
+Нажмите «Настройки».
+Нажмите «Сведения об устройстве».
+В «Продвинутые» нажмите «Сбросить до заводских настроек».
+Нажмите «Сброс».
+Ich verstehe, aber mein Kollege hat gestern erklärt, dass wir uns mit dem Lager in Verbindung setzen müssen; dies ist geschehen, und wir warten jetzt auf die Antwort.
+Sobald wir die Informationen erhalten haben, können wir Sie über den Verbleib Ihrer Bestellung informieren
+Der Artikel sollte am 18.12. versandt werden
+Vielen Dank – diese Anfrage wurde, wie im Chat gestern erklärt, an das Lager gesendet, und wir müssen die Antwort auf die Untersuchung abwarten.
+Sobald wir von ihnen gehört haben, erhalten Sie eine E-Mail
+Leider entsprechen die Preise der Artikel den online angezeigten, wir können sie nicht für Sie ändern oder reduzieren
+Die Lieferzeiten sind die auf der Website angegebenen.
+Da wir keinen Lagerbestand haben, werden alle Artikel auf Bestellung angefertigt, an uns hier in #URL# gesendet und dann an Sie geliefert.
+Daher müssen Sie bitte mit diesen Lieferzeiten rechnen.
+Die Lieferzeit zeigt an, wann die nächste Charge eintreffen wird.
+I found the buyer with the wrong order.
+But my wheel pie is missing.
+But the Poached Chicken in Chili Sauce is just a box of inedible raw chicken, and can I get a refund for it?
+Pineapple, tamagoyaki and steamed buns have not arrived, #PRS_ORG# returned #NUMBER# yuan
+But can I ask for a refund of the Poached Chicken with Chili Sauce?
+Because it is so raw that it is not edible.
+Hi, the Poached Chicken with Chili Sauce delivered from the restaurant is raw.
+Poached Chicken with Chili Sauce is supposed to be fully cooked, but what I received is raw and inedible.
+What beef, I didn’t order beef.
+It is Poached Chicken with Chili Sauce, and it’s raw.

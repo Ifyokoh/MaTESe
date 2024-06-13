@@ -1,1 +1,30 @@
-This is a wrong translation in English
+Можете ли вы отключить eReader от компьютера и попробовать выполнить заводской сброс?
+Это удалит информацию на вашем eReader, но вы можете сделать резервную копию и перенести информацию снова после этого
+Вы можете выполнить следующие действия:
+Чтобы выполнить заводской сброс на вашем #PRS_ORG#, выполните следующие действия:
+Перейдите на домашний экран.
+Нажмите Домой в верхней части экрана.
+Нажмите Настройки.
+Нажмите на информацию об устройстве.
+Tap Factory reset под Advanced.
+Нажмите Reset Now.
+Ich verstehe, aber mein Kollege hat gestern erklärt, dass wir mit dem Lager in Verbindung bleiben müssen, das wurde für Sie erledigt - also warten wir auf die Antwort.
+Sobald wir die Informationen haben, können wir Ihnen den Verbleib Ihrer Bestellung mitteilen.
+Der Artikel sollte am 18.12. versandt werden
+Danke - also diese Anfrage ist mit Lager, wie im gestrigen Chat angegeben, wir müssen die Antwort auf die Untersuchung abwarten.
+Sobald wir eine Antwort erhalten haben, werden Sie per E-Mail benachrichtigt
+Leider sind die Preise der Artikel so, wie sie online angezeigt werden, wir können dies nicht für Sie ändern oder reduzieren
+Die Vorlaufzeiten entsprechen den Angaben auf der Website.
+Da wir keine Lagerbestände führen, werden alle Artikel auf Bestellung hergestellt, an uns hier bei #URL# versandt und dann an euch selbst gesendet.
+Deshalb bitten wir Sie, diese Vorlaufzeiten zu ermöglichen.
+Die Vorlaufzeit zeigt an, wann die nächste Charge eintreffen soll.
+I found the buyer of the wrong order before
+But my wheel pie is gone
+But the whole box of saliva chicken is raw meat, so I can't eat it. Can I get a refund
+Pineapple, Yuzi roast and steamed bread did not arrive, and # PRS_ORG # returned # NUMBER # yuan
+But is the saliva chicken refundable
+Because it was too raw to eat
+Hello, the saliva chicken from the restaurant is raw
+The saliva chicken should be cooked, but it received raw meat and could not be eaten
+What cow? No cow
+It's saliva chicken, raw meat
